@@ -1,0 +1,17 @@
+body{
+    font-family: Arial;
+    background: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.carta{
+    margin-top: 20px;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0 0 10px rgb(176, 176, 176);
+}
